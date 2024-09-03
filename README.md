@@ -1,20 +1,22 @@
-<h1 align="center">Hi , I'm HunxByts  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm IchanZX CoderID  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <details>
 <summary>:zap: this is the 2nd account of Hunxploit04</summary>
 <a href="https://github.com/Hunxploit04">Hunxploit04</a>
 </details>
 
+<a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
+
 #### I am a student who likes coding 
 
 - :boy: Name   :   HunX | fais
-- :classical_building: Founder : CYS
-- :house: Hobby   : Gaming
+- :classical_building: Founder : ZXcoderID
+- :house: Hobby   : Coding, Design, Gaming
 ------
 
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/intl-id/track/0KifLRxrBPUPwpNcJmtCiG?si=ef15cb64111149cf" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
