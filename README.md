@@ -1,7 +1,9 @@
 <h1 align="center">Hi , I'm IchanZX CoderID  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <details>
-<summary>:zap: this is the My Profile Website</summary>
-<a href="https://myprofil.zxcoderid.my.id">Hunxploit04</a>
+<summary>:zap: Kumpulan Website Saya</summary>
+<a href="https://myprofil.zxcoderid.my.id">My Webiste</a>
+<a href="https://games.zxcoderid.my.id">My Games HTML</a>
+<a href="https://api.zxcoderid.my.id">Rest-APIs Website</a>
 </details>
 
 <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
@@ -35,10 +37,10 @@
 - Ubuntu
 - Kali Linux
 
-<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=HunxByts&show_icons=true&theme=transparent" alt="HunxByts:: Profile Stats"/></p>
+<p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=IchanZX1&show_icons=true&theme=transparent" alt="HunxByts:: Profile Stats"/></p>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HunxByts&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IchanZX1&theme=tokyonight)
 
-<a href="https://saweria.co/widgets/qr?streamKey=c30db71fb329c008e305c0741b77b690">If you want to buy me a drink, please do so. 😄</a>
+<a href="https://sociabuzz.com/ichanzx/tribe">If you want to buy me a drink, please do so. 😄</a>
 
