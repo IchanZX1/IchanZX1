@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm IchanZX CoderID  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <details>
-<summary>:zap: this is the 2nd account of Hunxploit04</summary>
-<a href="https://github.com/Hunxploit04">Hunxploit04</a>
+<summary>:zap: this is the My Profile Website</summary>
+<a href="https://myprofil.zxcoderid.my.id">Hunxploit04</a>
 </details>
 
 <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
 
 #### I am a student who likes coding 
 
-- :boy: Name   :   HunX | fais
+- :boy: Name   :   Ichan | Ihsan
 - :classical_building: Founder : ZXcoderID
 - :house: Hobby   : Coding, Design, Gaming
 ------
@@ -22,8 +22,8 @@
 ------
 
 #### Code language :pick:
-- Python
-- Bash
+- NodeJS
+- JavaScript
 - C++
 
 ------
@@ -32,8 +32,8 @@
 - Vscode
 
 #### Used Os :gear:
-- kali Linux
-- Windows
+- Ubuntu
+- Kali Linux
 
 <p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=HunxByts&show_icons=true&theme=transparent" alt="HunxByts:: Profile Stats"/></p>
 
