@@ -9,11 +9,22 @@
 - :boy: Name   :   HunX | fais
 - :classical_building: Founder : CYS
 - :house: Hobby   : Gaming
+------
+
+### Spotify Playing 🎧
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31nuzemgd72h4llo3dnl2pshegeu?si=qHWmVIfBQhy2KyH0dJgQ2Q&utm_source=copy-link" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+</p>
+
+------
 
 #### Code language :pick:
 - Python
 - Bash
 - C++
+
+------
 
 #### Tools :hammer_and_pick:
 - Vscode
