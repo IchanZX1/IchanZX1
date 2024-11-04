@@ -6,7 +6,7 @@
 <a href="https://api.zxcoderid.my.id">Rest-APIs Website</a>
 </details>
 
-<a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
+<a href="https://github.com/IchanZX1"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
 
 #### I am a student who likes coding 
 
