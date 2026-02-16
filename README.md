@@ -11,7 +11,7 @@
 #### I am a student who likes coding 
 
 - :boy: Name   :   Ichan | Ihsan
-- :classical_building: Founder : ZXcoderID
+- :classical_building: Part Of Polytechnic Negeri Jember
 - :house: Hobby   : Coding, Design, Gaming
 ------
 
