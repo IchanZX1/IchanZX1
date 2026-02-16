@@ -11,7 +11,7 @@
 #### I am a student who likes coding 
 
 - :boy: Name   :   Ichan | Ihsan
-- :classical_building: Part Of Polytechnic Negeri Jember
+- :classical_building: Founder : ZXcoderID
 - :house: Hobby   : Coding, Design, Gaming
 ------
 
@@ -28,18 +28,18 @@
 </p>
 
 #### Code language :pick:
-- NodeJS
+- Python
 - JavaScript
 - C++
 
 ------
 
 #### Tools :hammer_and_pick:
-- Vscode
+- NpmJS
 
 #### Used Os :gear:
 - Ubuntu
-- Kali Linux
+- 
 
 <p align="right align="center"><img src="https://github-readme-stats.vercel.app/api?username=IchanZX1&show_icons=true&theme=transparent" alt="HunxByts:: Profile Stats"/></p>
 
